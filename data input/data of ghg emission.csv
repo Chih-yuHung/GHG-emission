@@ -1,0 +1,207 @@
+ID,First author,Pub. year,Journal,Region,Start Year,End,Period,Season,Research type,Technique,Livestock,Livestock Sub,Collection Setting,Feed additives,Manure type,Treatment,GHG source,Field crop,CO2,CH4,N2O,NH3
+1,VanderZaag,2022,Journal of Environmental Quality,Manitoba,2016,2018,Multiple Years,Year Round,Farm,Micrometeorological,Swine,"Growers, Finishers",Indoor,None,Liquid,Intermittent Agitation,Storage,NA,F,T,F,F
+2,Romero,2022,Science of the Total Environment,Alberta,2019,2019,Single Year,Growing,Farm,Soil chamber,Beef Cattle,Steers,Indoor,Others,Solid,"Stockpile, Compost, pyrolysis",Storage,NA,T,T,T,F
+3,Turner,2022,"Resources, Conservation & Recycling",National,2019,2019,Single Year,Growing,LCA,Mixed,Poultry,Layers,Mixed,Others,Slurry,None,"Storage, Field",,F,T,T,T
+4,Gong,2022,Frontiers of Environmental Science & Engineering,Alberta,2019,2019,Single Year,Growing,Lab,Incubation,Dairy Cattle,Whole herd,Indoor,None,Solid,Pyrolysis,Field,NA,T,F,T,F
+5,Mahato,2022,Bioresource Technology,Quebec,2020,2020,Single Year,Growing,Pilot,Incubation,Poultry,Whole herd,Indoor,None,"Solid, Liquid",Digester,Storage,NA,T,T,F,F
+5,Wedwitschka,2022,Waste Management,Alberta,2020,2020,Single Year,NA,Pilot,Incubation,Dairy Cattle,Whole herd,Indoor,None,"Solid, Liquid",Digester,Storage,NA,F,T,F,F
+6,Abbasi,2021,Biosystems Engineering,Ontario,2012,2015,Multiple Years,Growing,Farm,"Soil chamber, Modelling",Dairy Cattle,Whole herd,Indoor,None,Solid,None,Field,Annual crop,T,F,F,F
+6,Benchaar,2021,Journal of Dairy Science,Quebec,NA,NA,Single Year,NA,Farm,Animal chamber,Dairy Cattle,Cows,Indoor,Others,Solid,None,Enteric,NA,F,T,F,F
+6,Benchaar,2021,Journal of Dairy Science,Quebec,NA,NA,Single Year,NA,Farm,"Animal chamber, Incubation",Dairy Cattle,Cows,Indoor,Others,"Solid, Liquid",Digester,Enteric,NA,F,T,F,F
+4,Holtshausen,2021,Animals,Regional,ND,ND,Single Year,Growing,LCA,Mixed,Dairy Cattle,Cows,Indoor,Others,Solid,Stockpile,"Enteric, Field, Storage",,T,T,T,F
+5,Hung,2021,"Agriculture, Ecosystems and Environment",Quebec,2018,2019,Single Year,Non-Growing,Field,Soil chamber,Dairy Cattle,Cows,Indoor,None,"Solid, Liquid",Compost,Field,,F,F,T,F
+6,Hung,2021,Applied Soil Ecology,Quebec,2071,2100,Single Year,Non-Growing,Field,Modelling,Dairy Cattle,Cows,Indoor,None,"Solid, Liquid",Compost,Field,,F,F,T,F
+7,Pokharel,2021,Journal of Environmental Management,Alberta,NA,NA,Single Year,NA,Lab,Incubation,Dairy Cattle,Whole herd,Indoor,None,Solid,Pyrolysis,Field,NA,F,F,T,F
+7,Pokharel,2021,Soil Biology and Biochemistry,Alberta,NA,NA,Single Year,NA,Lab,Incubation,Dairy Cattle,Whole herd,Indoor,None,Solid,Pyrolysis,Field,NA,T,F,T,F
+7,Adghim,2021,Waste and Biomass Valorization,Ontario,NA,NA,Single Year,NA,Lab,Incubation,Poultry,Whole herd,Indoor,None,Liquid,"Digester, Hydrolysis",Storage,NA,F,T,F,F
+7,Arias,2021,Jounral of Environmental Management,Ontario,NA,NA,Single Year,NA,Pilot,Incubation,Swine,Whole herd,Indoor,None,"Solid, Liquid",Digester,Storage,NA,T,T,F,F
+7,Sokolov,2021,Frontiers in Sustainable Food Systems,Nova Scotia,2019,2019,Single Year,Growing,Pilot,Soil chamber,Dairy Cattle,Whole herd,Indoor,None,Liquid,"Solid-Liquid Seperation, Acidification",Storage,NA,F,T,T,F
+7,Ejack,2021,Biology and Fertility of Soils,Quebec,2018,2018,Single Year,Non-Growing,Lab,Incubation,Dairy Cattle,Whole herd,Indoor,None,"Solid, Liquid",None,Field,NA,F,F,T,F
+7,Romero,2021,Pedosphere,Alberta,NA,NA,Single Year,NA,Lab,Incubation,Beef Cattle,Heifers,Indoor,Biochar,Liquid,None,Field,NA,T,T,T,F
+7,Adelekun,2021,"Agriculture, Ecosystems and Environment",Manitoba,2011,2014,Multiple Years,Growing,Field,Soil chamber,Swine,Whole herd,Indoor,None,Liquid,None,Field,Annual crop,F,F,T,F
+7,Lin,2021,Science of the Total Environment,Alberta,2016,NA,Single Year,NA,Lab,Incubation,Dairy Cattle,Whole herd,Indoor,None,Liquid,None,Field,NA,F,F,T,F
+7,Lin,2021,Canadian Journal of Soil Science,Alberta,2015,2015,Single Year,NA,Lab,Incubation,Dairy Cattle,Whole herd,Indoor,None,Liquid,None,Field,NA,T,F,T,F
+8,Sokolov,2021,Environmental Technology,Nova Scotia,2017,2017,Single Year,NA,Lab,Incubation,Dairy Cattle,Whole herd,Indoor,None,Liquid,"Solid-Liquid Seperation, Acidification",Storage,NA,F,T,F,F
+7,Pelster,2021,Soil & Tillage Research,Quebec,2016,2018,Multiple Years,Growing,Field,Soil chamber,"Dairy, Swine","Whole herd, Growers, Finisherss",Indoor,None,Slurry,Storage,Field,,F,F,T,F
+8,Rennie,2021,Science of the Total Environment,National,1971,2000,Single Year,Year Round,Modelling,Modelling,Dairy Cattle,Whole herd,NA,None,Liquid,None,Storage,NA,F,T,F,F
+9,Lin,2021,Science of the Total Environment,Alberta,2014,2016,Multiple Years,Year Round,Modelling,Modelling,Swine,Whole herd,Indoor,None,Slurry,NA,Field,,F,F,T,F
+10,Zhang,2021,Journal of Cleaner Production,British Columbia,2019,2019,Single Year,Year Round,LCA,Mixed,Dairy Cattle,Whole herd,Indoor,None,"Solid, Liquid",None,"Storage, Field",,T,T,T,F
+11,Binggeli,2021,Journal of Dairy Science,Regional,2010,2014,Multiple Years,Year Round,LCA,Mixed,Dairy Cattle,Whole herd,Indoor,Others,Slurry,None,"Storage, Field",,T,T,T,F
+12,Sharifi,2021,Acta Horticulturae,British Columbia,2011,2018,Multiple Years,NA,Lab,Incubation,Dairy Cattle,Cows,Indoor,None,Solid,Compost,Lab,NA,T,F,F,F
+13,Wang,2021,Environmental Pollution,British Columbia,2019,2019,Single Year,Year Round,LCA,Mixed,"Dairy Cattle, Poultry",Whole herd,Indoor,None,Slurry,Digester,Storage,NA,T,T,T,F
+13,Ashiq,2020,Environmental Pollution,Newfounland,2016,2017,Multiple Years,Growing,Field,Soil chamber,Dairy Cattle,Whole herd,Indoor,None,Liquid,NA,Field,Annual crop,T,T,T,F
+13,Abassi,2020,Geoderma,Ontario,2012,2014,Multiple Years,Growing,Field,Soil chamber,Dairy Cattle,Whole herd,Indoor,None,Solid,None,Field,Annual crop,F,F,T,F
+13,Benchaar,2020,Journal of Dairy Science,Quebec,NA,NA,Single Year,NA,Farm,Animal chamber,Dairy Cattle,Cows,Indoor,None,"Solid, Liquid",None,Enteric,NA,F,T,F,F
+13,Cluett,2020,Animals,Regional,2017,2019,Single Year,NA,Lab,Incubation,Dairy Cattle,Whole herd,Indoor,"AgriMestMix, Penergetic-g",Liquid,None,Storage,NA,F,T,F,F
+13,Johannesson,2020,Biocatalysis and Agricultural Biotechnology,Ontario,NA,NA,Single Year,NA,Lab,Incubation,"Dairy Cattle, Poultry",Whole herd,Indoor,None,"Solid, Liquid",Digester,Storage,NA,F,T,F,F
+13,Grant,2020,Biogeosciences,Alberta,2014,2016,Multiple Years,Growing,"Field, Modelling","Soil chamber, Modelling",Dairy Cattle,Whole herd,Indoor,None,Liquid,Nitrification inhibitor,Field,Annual crop,F,F,T,F
+13,Flores-Orozco,2020,Bioresource Technology,Manitoba,NA,NA,Single Year,NA,"Lab, Modelling","Incubation, Modelling",Dairy Cattle,Whole herd,Indoor,None,Liquid,Antibiotic,Storage,NA,T,T,F,F
+13,Le Riche,2020,Jounral of Environmental Quality,Nova Scotia,2015,2015,Single Year,Year Round,Pilot,Soil chamber,Dairy Cattle,Whole herd,Indoor,None,Liquid,None,Storage,NA,F,T,T,T
+13,Debruyn,2020,Jounral of Environmental Quality,Ontario,2011,2015,Multiple Years,Year Round,Farm,Micrometeorological,Dairy Cattle,Whole herd,Indoor,None,Liquid,"Solid-Liquid Seperation, Digester",Storage,NA,F,T,F,F
+13,Wu,2020,Biology and Fertility of Soil,Alberta,NA,NA,Single Year,NA,Lab,Incubation,Dairy Cattle,Cows,Indoor,None,Liquid,None,Field,Grass,T,T,T,F
+13,Weber,2020,Canadian Journal of Soil Science,Alberta,NA,NA,Single Year,NA,Lab,Incubation,Beef Cattle,Steers,Indoor,None,Solid,None,Field,NA,T,F,F,F
+13,Sokolov,2020,Frontiers in Sustainable Food Systems,Nova Scotia,2018,2018,Single Year,Growing,Pilot,Soil chamber,Dairy Cattle,Cows,Indoor,None,Liquid,Acidification,Storage,NA,F,T,T,T
+14,Owens,2020,Scientific Reports,Alberta,2016,2017,Single Year,Non-Growing,Field,Soil chamber,Beef Cattle,Steers,Indoor,"3-NOP, Monensin",Solid,"Stockpile, Compost",Enteric,,T,T,T,T
+15,Chen,2020,Journal of Environmental Management,Saskatchewan,2014,2014,Single Year,Year Round,LCA,Mixed,Beef Cattle,Whole herd,Mixed,None,"Solid, Liquid",None,"Enteric, Field, Storage",,T,T,T,F
+16,Liang,2020,Science of the Total Environment,National,1990,2016,Multiple Years,Year Round,Modelling,Modelling,"Beef Cattle, Dairy Cattle","Whole herd, Heifers, Steers",Mixed,None,"Solid, Liquid",None,"Enteric, Field, Storage",,T,T,T,F
+17,He,2020,Science of the Total Environment,Regional,2001,2006,Multiple Years,Year Round,"Field, Modelling","Modelling, Soil chamber","Dairy Cattle, Swine",Whole herd,Indoor,None,Liquid,NA,Field,,F,F,T,F
+18,Boh,2020,"Resources, Conservation & Recycling",Ontario,2011,2011,Single Year,Year Round,Modelling,Modelling,"Beef Cattle, Dairy Cattle, Swine, Poultry, Sheep",Whold herd,Mixed,None,"Solid, Liquid, Slurry",None,"Storage, Field",,F,F,T,T
+19,Jiang,2020,American Society of Agricultural and Biological Engineers,Ontario,2012,2015,Multiple Years,Year Round,"Field, Modelling","Modelling, Soil chamber",Dairy Cattle,Whole herd,Indoor,None,Solid,NA,Field,,T,F,T,F
+20,Létourneau,2020,American Society of Agricultural and Biological Engineers,Quebec,2011,2011,Single Year,Growing,Animal,Animal chamber,Swine,"Growers, Finishers",Indoor,None,Solid,None,"Enteric, Storage",,T,T,T,T
+20,Sokolov,2019,Nutrient Cycling in Agroecosystems,Nova Scotia,2016,2016,Single Year,Growing,Pilot,Soil chamber,Dairy Cattle,Cows,Indoor,None,Liquid,None,Storage,NA,F,T,T,T
+20,Rajagopal,2019,International Journal of Environmental Science and Technology,Quebec,NA,NA,Single Year,NA,Lab,Incubation,Dairy Cattle,Whole herd,Indoor,None,Liquid,Digester,Storage,NA,F,T,F,F
+20,Maltais-Landry,2019,"Agriculture, Ecosystems and Environment",British Columbia,2015,2016,Multiple Years,Growing,Field,Soil chamber,Poultry,Whole herd,Indoor,None,Solid,Compost,Field,Annual crop,T,T,T,F
+20,Hassanat,2019,Journal of Dairy Science,Quebec,NA,NA,Single Year,NA,Farm,Incubation,Dairy Cattle,Cows,Indoor,Others,Liquid,None,Storage,NA,F,T,F,F
+20,Benchaar,2019,Journal of Dairy Science,Quebec,NA,NA,Single Year,NA,Farm,Incubation,Dairy Cattle,Cows,Indoor,Others,Liquid,None,Storage,NA,F,T,F,F
+20,Hunt,2019,Frontiers in Sustainable Food Systems,British Columbia,2008,2013,Multiple Years,Year Round,Field,Soil chamber,Dairy Cattle,Whole herd,Indoor,None,Liquid,None,Field,Grass,F,F,T,F
+20,McVoitte,2019,Heliyon,Quebec,NA,NA,Single Year,NA,Pilot,Incubation,Dairy Cattle,Cows,Indoor,None,Liquid,Digester,Storage,NA,F,T,F,F
+20,Pokharel,2019,Science of the Total Environment,Alberta,NA,NA,Single Year,Growing,Pilot,Soil chamber,Dairy Cattle,Whole herd,Indoor,None,Solid,"Solid-Liquid Seperatation, Digester",Field,Annual crop,T,F,F,F
+20,Quesnel,2019,Nutrient Cycling in Agroecosystems,Ontario,2015,2016,Multiple Years,Year Round,Field,Soil chamber,Dairy Cattle,Whole herd,Indoor,None,Liquid,None,Field,Annual crop,F,F,T,F
+20,Adelekun,2019,Canadian Journal of Soil Science,Manitoba,2013,2014,Multiple Years,Growing,Field,Soil chamber,Swine,Whole herd,Indoor,None,"Solid, Liquid",None,Field,"Annual crop, Perennial crop",F,F,T,F
+20,McGinn,2019,Journal of Environmental Quality,Alberta,2017,2018,Single Year,Non-Growing,Farm,Micrometeorological,Beef Cattle,Whole herd,Outdoor,"3-NOP, Monensin","Solid, Liquid",None,"Enteric, Field, Storage",NA,F,T,F,F
+20,Sokolov,2019,Journal of Environmental Quality,Nova Scotia,2017,2017,Single Year,Growing,Pilot,Soil chamber,Dairy Cattle,Cows,Indoor,None,Liquid,Acidification,Storage,NA,F,T,T,T
+21,VanderZaag,2019,Journal of the Air & Waste Management Association,Ontario,2016,2016,Single Year,Growing,Farm,Micrometeorological,Dairy Cattle,"Cows, Heifers",Indoor,None,Liquid,"Intermittent Agitation, Solid-Liquid Seperation",Storage,NA,F,T,F,F
+22,Dimitrov,2019,Environmental Development,Alberta,2011,2011,Single Year,Year Round,Modelling,Modelling,"Beef Cattle, Dairy Cattle, Swine, Poultry, Sheep",Whole herd,Mixed,None,"Solid, Liquid, Slurry",None,"Enteric, Field, Storage",,F,T,T,F
+23,Shen,2019,Agricultural Systems,Alberta,2008,2011,Multiple Years,Growing,"Modelling, Field","Modeliing, Soil chamber",Beef Cattle,Steers,Mixed,None,Solid,Digester,Field,,F,F,T,F
+24,Mirmasoudi,2019,Canadian Water Resources Journal,British Columbia,2011,2100,Multiple Years,Year Round,Modelling,Modelling,Beef Cattle,Whole herd,Mixed,None,Solid,Stockpile,"Enteric, Field, Storage",,F,T,T,F
+25,Maltais-Landry,2019,Agronomy,British Columbia,2015,2016,Single Year,Non-Growing,Field,collar,"Poultry, Horse",Whole herd,Mixed,None,Solid,NA,Field,,T,T,T,F
+26,Huang,2019,Environmental Pollution,Saskatchewan,2015,2016,Single Year,Year Round,Farm,Animal chamber,Poultry,"Broilers, Layers",Indoor,None,Solid,None,Storage,NA,T,T,T,F
+27,Alvarez-Hess,2019,Agricultural Systems,Alberta,2016,2016,Single Year,Year Round,LCA,Mixed,Dairy Cattle,Whole herd,Mixed,"3-NOP, Nitrate",Solid,Stockpile,"Enteric, Field, Storage",,T,T,T,F
+28,Fournel,2019,American Society of Agricultural and Biological Engineers,Quebec,2010,2014,Single Year,Year Round,Modelling,Modelling,Dairy Cattle,"Cows, Heifers",Indoor,None,"Solid, Liquid",Stockpile,"Enteric, Field, Storage",,T,T,T,F
+29,Smith,2019,Journal of Environmental Quality,Ontario,1986,2015,Multiple Years,Year Round,Modelling,Modelling,Dairy Cattle,Whole herd,Indoor,None,Slurry,NA,Field,,F,F,T,T
+30,He,2019,Journal of Environmental Quality,Ontario,1966,2015,Multiple Years,Year Round,"Field, Modelling","Soil chamber, Modelling",Dairy Cattle,,,None,Slurry,NA,Field,,F,F,T,T
+31,Zhu,2019,IOP Conference Series: Earth and Environmental Science,Alberta,2015,2015,Single Year,NA,Lab,Incubation,NA,NA,NA,NA,NA,NA,Lab,NA,T,T,T,F
+31,Cherif,2018,Journal of Dairy Science,Quebec,NA,NA,Single Year,NA,Farm,Animal chamber,Dairy Cattle,Cows,Indoor,Other,"Solid, Liquid",NA,Enteric,NA,F,T,F,F
+31,Brassard,2018,Geoderma,Quebec,NA,NA,Single Year,NA,Lab,Incubation,Swine,Whole herd,Indoor,None,Solid,Pyrolysis,Field,NA,T,F,T,F
+31,Maltais-Landry,2018,Jounral of Environmental Quality,British Columbia,2016,2016,Single Year,Growing,Lab,Incubation,"Horse, Poultry",Whole herd,Indoor,None,Solid,None,Field,NA,T,T,T,T
+31,Habtewold,2018,Jounral of Environmental Quality,Ontario,NA,NA,Single Year,NA,Lab,Incubation,Dairy Cattle,Whole herd,Indoor,None,Liquid,Antibiotics,Storage,NA,T,T,F,F
+31,Maltais-Landry,2018,Jounral of the Air & Waste Management Association,British Columbia,2015,2016,Single Year,Non-Growing,Farm,Soil chamber,"Horse, Poultry","Whole herd, Broiler",Indoor,None,Solid,Stockpile,Storage,NA,T,T,T,F
+31,VanderZaag,2018,Environmental Technology,Ontario,NA,NA,Single Year,NA,Farm,Incubation,Dairy Cattle,Whole herd,Indoor,None,"Solid, Liquid","Solid-Liquid Seperation, Compost, Digester",Storage,NA,F,T,F,F
+31,Westphal,2018,"Agriculture, Ecosystems and Environment",Manitoba,2014,2015,Multiple Years,Growing,Field,Soil chamber,Dairy Cattle,Whole herd,Indoor,None,Solid,Compost,Field,Annaual crop,F,F,T,F
+32,Maldaner,2018,Agricultural and Forest Meteorology,Ontario,2013,2013,Single Year,Year-Round,Farm,Micrometeorological,Dairy Cattle,"Cows, Heifers, Calves",Indoor,None,Liquid,"Digester, Solid-Liquid Separation",Storage,NA,F,T,F,F
+33,Mechler,2018,Biomass and Bioenergy,Ontario,2016,2017,Multiple Years,Growing,Field,Soil chamber,Poultry,NA,Indoor,None,Solid,NA,Field,,T,F,T,F
+34,Kariyapperuma,2018,Agricultural and Forest Meteorology,Ontario,2010,2011,Multiple Years,Year-Round,Farm,Micrometeorological,Dairy Cattle,"Cows, Heifers",Indoor,None,Liquid,None,Storage,NA,F,T,F,T
+35,Fedrizzi,2018,Waste Management,National,2013,2015,Single Year,NA,Lab,Incubation,Dairy Cattle,ND,Indoor,None,Liquid,Compost,Storage,NA,F,T,F,F
+36,Yitbarek,2017,Journal of Cleaner Production,Manitoba,ND,ND,Single Year,NA,Lab,Incubation,Swine,Weaners,Indoor,Phytase,"Solid, Liquid",NA,Lab,NA,T,T,T,F
+37,Little,2017,Climate,Quebec,NA,NA,Single Year,Year-Round,LCA,Mixed,Dairy Cattle,Whole herd,Indoor,Other,"Solid, Liquid",None,"Enteric, Field, Storage",Annual crop,F,T,T,F
+37,Fillingham,2017,Waste Management,Ontario,NA,NA,Single Year,Year-Round,Farm,Micrometeorological,Dairy Cattle,Cows,Indoor,None,Solid,"Solid-Liquid Seperation, Compost",Storage,NA,T,T,T,T
+37,Thomas,2017,Journal of Environmental Quality,Alberta,2008,2011,Multiple Years,Growing,Field,Soil chamber,Beef Cattle,Whole herd,Outdoor,None,"Solid, Liquid","Solid-Liquid Seperation, Digester",Field,Annual crop,F,F,T,F
+37,Hao,2017,Frontiers of Environmental Science and Engineering,Alberta,2013,2013,Single Year,Growing,Pilot,Soil chamber,Beef Cattle,Whole herd,Outdoor,None,Solid,Compost,Storage,NA,T,T,T,F
+37,Hassanat,2017,Journal of Dairy Science,Quebec,NA,NA,Single Year,NA,Farm,Animal chamber,Dairy Cattle,Cows,Indoor,None,"Solid, Liquid",None,Enteric,NA,F,T,F,F
+37,Snider,2017,Journal of Environmental Quality,Ontario,2011,2013,Multiple Years,Non-Growing,Field,"Soil chamber, Micrometeorological",Dairy Cattle,Whole herd,Indoor,None,Liquid,None,Field,NA,F,F,T,F
+37,Habtewold,2017,Journal of Environmental Quality,Nova Scotia,2010,2010,Single Year,Growing,Pilot,Soil chamber,Dairy Cattle,Whole herd,Indoor,None,Liquid,None,Stroage,NA,F,T,F,F
+37,Lin,2017,Soil Science Society of America Journal,Alberta,2014,2015,Single Year,Year-Round,Field,Soil Chamber,Swine,ND,Indoor,None,Liquid,ND,Field,Annual crop,F,F,T,F
+38,Thomas,2017,Environmental Science and Pollution Research,Alberta,2014,2015,Single Year,Year-Round,Field,Soil Chamber,Dairy Cattle,"Cows, Calves",Indoor,None,"Solid, Liquid",NA,Field,Grass,F,F,T,F
+39,Thivierge,2017,Agricultural Systems,Regional,2020,2079,Multiple Years,Year-Round,Modelling,Modelling,Dairy Cattle,"Cows, Heifers, Calves",Indoor,None,Liquid,ND,Field,Annual crop,F,T,T,T
+40,Sulaiman,2017,Agriculture,Ontario,2012,2014,Multiple Years,Year-Round,Field,Micrometeorological,Dairy Cattle,"Cows, Calves",Indoor,None,Liquid,NA,Field,Annual crop,T,F,T,F
+41,Guyader,2017,Agricultural Systems,Quebec,2011,2014,Single Year,Year-Round,LCA,Mixed,Dairy Cattle,"Cows, Heifers, Calves",Indoor,None,Solid,Stockpile,"Enteric, Field, Storage",Annual crop,F,T,T,T
+42,Cambareri,2017,Soil Science Society of America Journal,Ontario,2011,2014,Multiple Years,Year-Round,Field,Soil Chamber,Dairy Cattle,Cows,Indoor,None,Liquid,Digester,Field,Annual crop,F,F,T,F
+43,Taylor,2017,Agriculture,Manitoba,2012,2013,Single Year,Year-Round,Field,"Soil Chamber, Micrometeorological",Beef Cattle,"Steers, Cows, Calves",Outdoor,None,Solid,NA,Field,Grass,T,T,T,F
+44,Guest,2017,Journal of Cleaner Production,Ontario,2013,2014,Single Year,Year-Round,LCA,Mixed,Dairy Cattle,"Cows. Heifers, Calves",Indoor,None,"Liquid, Solid","Solid-Liquid Seperation, Compost","Enteric, Field, Storage",Annual crop,T,T,T,F
+45,Alemu,2017,Agricultural Systems,National,2010,2011,Single Year,Year-Round,Modelling,Modelling,Beef Cattle,"Cows, Calves","Indoor, Outdoor",None,"Liquid, Solid","Stockpile, Compost","Enteric, Field, Storage","Grass, Annual crop, Pernnial crop",F,T,T,F
+45,Li,2016,Canadian Journal of Soil Science,Alberta,NA,NA,Single Year,NA,Lab,Incubation,Beef Cattle,Whole herd,Indoor,None,Solid,Compost,Field,NA,T,F,T,F
+45,Giweta,2016,Canadian Journal of Soil Science,Alberta,2013,2015,Multiple Years,Growing,Field,Soil chamber,Beef Cattle,Whole herd,Indoor,None,Soild,Compost,Field,Annual crop,T,F,T,F
+45,Riche,2016,Canadian Journal of Soil Science,Nova Scotia,2014,2014,Single Year,Growing,Pilot,Soil chamber,Dairy Cattle,Cows,Indoor,None,Liquid,None,Storage,NA,F,T,T,T
+45,Chantigny,2016,Canadian Journal of Soil Science,Quebec,2009,2013,Multiple Years,Non-Growing,Field,Soil chamber,Swine,Whole herd,Indoor,None,Liquid,None,Field,NA,T,F,T,F
+45,Withey,2016,Journal of Chemical Technology and Biotechnology,Alberta,NA,NA,Single Year,NA,Lab,Incubation,Dairy Cattle,Whole herd,Indoor,None,Liquid,"Digester, Antibiotic",Storage,NA,T,T,F,F
+45,Balde,2016,"Agriculture, Ecosystems and Environment",Ontario,2013,2014,Multiple Years,Year-Round,Farm,Micrometeorological,Dairy Cattle,Whole herd,Indoor,None,Liquid,Solid-Liquid Seperation,Storage,NA,F,T,F,F
+45,Saady,2016,International Journal of Recycling of Organic Waste in Agriculture,Quebec,NA,NA,Single Year,NA,Pilot,Incubation,Dairy Cattle,Whole herd,Indoor,None,Liquid,None,Storage,NA,T,T,F,F
+45,Le Riche,2016,Journal of Environmental Quality,Nova Scotia,2013,2013,Single Year,Growing,Pilot,Soil chamber,Dairy Cattle,Whole herd,Indoor,None,Liquid,None,Stroage,NA,T,T,F,T
+45,Lee,2016,Journal of Environmental Quality,Alberta,NA,NA,Single Year,NA,Lab,Incubation,Beef Cattle,Heifers,Indoor,Nitrate,Liquid,None,Storage,NA,T,T,T,T
+45,Balde,2016,Journal of Environmental Quality,Ontario,2014,2015,Single Year,Year-Round,Farm,Micrometeorological,Dairy Cattle,Cows. Heifers,Indoor,None,Liquid,"Solid-Liquid Seperation, Intermittent Agitation",Storage,NA,F,T,F,F
+45,Ngwabie,2016,Journal of Environmental Quality,Nova Scotia,2012,2013,Multiple Years,Year-Round,Pilot,Soil chamber,Dairy Cattle,Whole herd,Indoor,None,Liquid,None,Storage,NA,F,T,F,F
+45,Tang,2016,Compost Science & Utilization,Alberta,2005,2007,Multiple Years,Year-Round,Field,Soil chamber,Beef Cattle,Whole herd,Indoor,None,Solid,Compost,Field,Annual crop,F,F,T,F
+46,Baldé,2016,"Agriculture, Ecosystems and Environment",Ontario,2013,2014,Multiple Years,Year-Round,Farm,Micrometeorological,Dairy Cattle,"Cows, Heifers, Calves",Indoor,Others,Liquid,"Intermittent Agitation, Solid-Liquid Seperation",Storage,NA,F,T,F,F
+47,Baldé,2016,Journal of Environmental Quality,Ontario,2013,2015,Multiple Years,Year Round,Farm,Micrometeorological,Dairy Cattle,"Cows, Heifers",Indoor,None,Liquid,"Intermittent Agitation, Solid-Liquid Seperation",Storage,NA,F,T,F,F
+48,Le Riche,2016,Journal of Environmental Quality,Nova Scotia,2013,2013,Single Year,Growing,Pilot,Soil Chamber,Dairy Cattle,Cows,Indoor,None,Liquid,"Intermittent Agitation, Cover",Storage,NA,F,T,T,T
+49,Alemu,2016,Animal Production Science,Manitoba,2004,2006,Multiple Years,Year-Round,LCA,Mixed,"Swine, Dairy Cattle","Finishers, Cows, Calves",Indoor,None,"Liquid, Solid",NA,"Enteric, Field, Storage","Grass, Annual crop",F,T,T,F
+50,Cuéllar,2016,Canadian Journal of Soil Science,Quebec,2012,2013,Multiple Years,Growing,Field,Soil Chamber,Horse,Whole herd,"Indoor, Outdoor",None,Solid,NA,Field,"Perennial crop, Annual crop",T,F,T,F
+51,Cambareri,2016,Canadian Journal of Soil Science,Ontario,2013,2014,Multiple Years,Year-Round,Field,Soil Chamber,Dairy Cattle,Cows,Indoor,None,Liquid,Digester,Field,Annual crop,F,F,T,F
+52,Baldé,2016,Bioresource Technology,Ontario,2013,2015,Multiple Years,Year-Round,Farm,Micrometeorological,Dairy Cattle,"Cows, Heifers, Calves",Indoor,None,Liquid,Digester,Storage,NA,F,T,F,F
+53,Nikièma,2016,Canadian Journal of Soil Science,Manitoba,2011,2012,Multiple Years,Growing,Field,Soil Chamber,Swine,Whole herd,Indoor,None,"Liquid, Solid",NA,Field,"Annual crop, Perennial crop",F,F,T,F
+54,Massé,2016,Agriculture,Quebec,2014,2014,Single Year,Growing,Pilot,Soil Chamber,Dairy Cattle,Cows,Indoor,None,Liquid,NA,Storage,NA,F,T,F,F
+55,Chai,2016,Atmospheric Environment,Ontario,1981,2010,Multiple Years,Year-Round,LCA,Mixed,Dairy Cattle,Whole herd,"Indoor, Outdoor",None,"Liquid, Solid","Stockpile, Compost","Storage, Field",Grass,F,F,F,T
+56,Schwager,2016,Journal of Environmental Quality,Ontario,2011,2014,Multiple Years,Year-Round,Field,Soil Chamber,Dairy Cattle,Cows,Indoor,None,Liquid,Digester,Field,Annual crop,F,F,T,F
+57,Alemu,2016,Animal Production Science,Manitoba,2008,2011,Multiple Years,Year-Round,Farm,Modelling,Beed Cattle,Calves,"Indoor, Outdoor",NA,"Liquid, Solid",NA,"Enteric, Storage, Field",NA,T,T,T,F
+58,Benchaar,2021,Journal of Dairy Science,Quebec,NA,NA,Single Year,Growing,Farm,Animal chamber,Dairy Cattle,Cows,Indoor,NA,"Liquid, Solid",NA,Enteric,NA,F,T,F,F
+60,Hao,2015,Geomicrobiology Journal,Alberta,1999,1999,Single Year,Non-Growing,Field,Soil chamber,Dairy Cattle,Whole herd,Indoor,NA,Solid,NA,Field,NA,T,F,T,F
+60,Benchaar,2015,Journal of Dairy Science,Quebec,NA,NA,Single Year,NA,Farm,Animal chamber,Dairy Cattle,Cows,Indoor,NA,"Liquid, Solid",NA,Enteric,NA,F,T,F,F
+60,Masse,2015,Bioresource Technology,Quebec,NA,NA,Single Year,NA,Pilot,Incubation,Dairy Cattle,Cows,Indoor,NA,Liquid,Digester,Storage,NA,T,T,F,F
+60,Saady,2015,Bioresource Technology,Quebec,NA,NA,Single Year,Year-Round,Pilot,Incubation,Dairy Cattle,Cows,Indoor,NA,Liquid,Digester,Storage,NA,T,T,F,F
+61,Tatti,2014,"Agriculture, Ecosystems and Environment",Quebec,2009,2011,Multiple Years,Non-Growing,Lab,Incubation,"Dairy Cattle, Poultry",Whole herd,Indoor,NA,"Liquid, Solid",NA,Field,NA,F,F,T,F
+62,Stewart,2014,Canadian Journal of Animal Science,Manitoba,2004,2006,Multiple Years,Year-Round,Farm,Mixed,Beef Cattle,Steers,"Indoor, Outdoor",NA,"Liquid, Solid",NA,"Storage, Field, Enteric",Grass,F,T,T,T
+63,Rochette,2014,Journal of Environmental Quality,Quebec,2009,2011,Single Year,Growing,Field,Soil chamber,Dairy Cattle,Cows,Indoor,NA,"Liquid, Solid",NA,Field,Grass,F,F,T,F
+64,Hünerberg,2014,Agricultural Systems,Alberta,2008,2012,Single Year,Year-Round,LCA,Mixed,Beef Cattle,Whole herd,"Indoor, Outdoor",NA,"Liquid, Solid",NA,"Enteric, Field, Storage","Grass, Annual crop",F,T,T,F
+65,Gao,2014,Canadian Journal of Soil Science,Manitoba,2006,2007,Multiple Years,Growing,Field,Soil chamber,Swine,"Growers, Finishers",Indoor,NA,Liquid,NA,Field,Annual crop,T,T,T,F
+67,Asgedom,2014,Agronomy Journal,Manitoba,2009,2010,Multiple Years,Growing,Field,Soil chamber,Dairy Cattle,Whole herd,Indoor,NA,Solid,Stockpile,Field,Annual crop,F,F,T,F
+67,Tartakovsky,2014,Journal of Chemical Technology and Biotechnology,Quebec,NA,NA,Single Year,NA,Lab,Incubation,Dairy Cattle,Cows,Indoor,NA,Liquid,"Intermittent Agitation, Digester",Storage,NA,T,T,F,F
+67,Ngwabie,2014,Biosystems Engineering,Ontario,2012,2012,Single Year,Non-Growing,Farm,"Micrometeorological, Modelling",Dariy Cattle,Whole herd,Indoor,NA,"Liquid, Solid",NA,"Enteric, Storage",NA,T,T,T,T
+67,VanderZaag,2014,Agricultural and Forest Meteorology,Ontario,2011,2012,Single Year,Non-Growing,Farm,Micrometeorological,Dairy Cattle,Whole herd,Indoor,NA,"Liquid, Solid",NA,"Stroage, Enteric",NA,F,T,F,F
+67,Rees,2014,Canadian Jounral of Soil Science,New Brunswick,2001,2003,Multiple Years,Growing,Lab,Incubation,"Poultry, Swine",Whole herd,Indoor,NA,Solid,None,Field,Annual crop,T,F,F,F
+67,Wood,2014,Nutrient Cycling in Agroecosystems,Nova Scotia,2011,2011,Single Year,Growing,Pilot,Soil chamber,Dairy Cattle,Cows,Indoor,NA,Liquid,None,Storage,NA,F,T,T,T
+67,Drury,2014,Canadian Journal of Soil Science,Ontario,1999,2001,Multiple Years,Growing,Field,Soil chamber,Swine,Whole herd,Indoor,NA,Liquid,None,Field,Annual crop,T,F,T,F
+67,Jayasundara,2014,Canadian Journal of Animal Science,Ontario,1999,2011,Multiple Years,Year-Round,LCA,Mixed,Dairy Cattle,Whole herd,Indoor,NA,"Liquid, Solid",None,"Enteric, Storage",Annual crop,F,T,T,F
+68,Taylor,2013,Agricultural and Forest Meteorology,Manitoba,2009,2011,Multiple Years,Growing,Field,Micrometeorological,Beef Cattle,"Cows, Calves",Outdoor,NA,"Liquid, Solid",NA,Field,Annual crop,T,F,F,F
+70,Massé,2013,Environmental Technology,Quebec,2012,2012,Single Year,Year-Round,Lab,Incubation,Swine,Growers,Indoor,NA,Liquid,NA,Storage,NA,F,T,F,F
+71,Fraser,2013,Canadian Journal of Soil Science,Manitoba,2009,2009,Single Year,Year-Round,Field,Micrometeorological,Beef Cattle,"Cows, Calves",Outdoor,NA,"Liquid, Solid",NA,Field,"Grass, Annual crop",T,F,F,F
+73,Giard,2013,Environmental Technology,Quebec,2010,2010,Single Year,Growing,Farm,Soil chamber,Swine,Growers,Indoor,NA,Liquid,Cover,Storage,NA,T,T,F,F
+74,Zhang,2013,Bioresource Technology,British Columbia,2006,2006,Single Year,Year-Round,LCA,Mixed,"Dairy Cattle, Swine, Poultry",Whole herd,Indoor,NA,Liquid,NA,"Storage, Enteric",NA,F,T,T,T
+75,Flesch,2013,Canadian Journal of Animal Science,Alberta,2010,2011,Single Year,Year-Round,Farm,Micrometeorological,Swine,Whole herd,Indoor,NA,Liquid,NA,Storage,NA,F,T,F,F
+75,Hassanat,2013,Jounral of Dairy Science,Quebec,NA,NA,Single Year,NA,Farm,Animal chamber,Dairy Cattle,Cows,Indoor,NA,"Liquid, Solid",NA,Enteric,NA,F,T,F,F
+75,Wood,2013,Agricultural and Forest Meteorology,Nova Scotia,2010,2010,Single Year,Growing,Pilot,Soil chamber,Dairy Cattle,Whole herd,Indoor,NA,Liquid,None,Storage,NA,F,T,T,F
+75,Barret,2013,Water Research,Quebec,2010,2011,Single Year,Year-Round,Lab,Incubation,"Swine, Dairy Cattle",Whole herd,Indoor,NA,Liquid,NA,Storage,NA,F,T,F,F
+75,Saady,2013,Bioresource Technology,Quebec,NA,NA,Single Year,NA,Lab,Incubation,Dairy Cattle,Whole herd,Indoor,NA,Liquid,Digester,Storage,NA,F,T,F,F
+75,Chantigny,2013,Journal of Environmental Quality,Quebec,2006,2007,Multiple Years,Growing,Field,Soil chamber,Swine,Whole herd,Indoor,NA,Liquid,Digester,Field,Annual crop,F,F,T,F
+76,Miller,2012,Canadian Journal of Soil Science,Alberta,2007,2010,Multiple Years,Growing,Lab,Incubation,Beef Cattle,Whole herd,Indoor,NA,Solid,"Compost, Stockpile",Field,Annual crop,F,F,T,F
+78,Wood,2012,Journal of Environmental Quality,Nova Scotia,2010,2010,Single Year,Growing,Pilot,Soil chamber,Dairy Cattle,Cows,Indoor,NA,Liquid,NA,Storage,NA,F,T,T,T
+79,Girard,2012,Journal of Chemical Technology and Biotechnology,Quebec,NA,NA,Single Year,NA,Lab,Incubation,Swine,Whole herd,Indoor,NA,Liquid,"Biofilter, Solid-Liquid seperation",Storage,NA,F,T,F,F
+80,Frigon,2012,Bioprocess and Biosystems Engineering,Quebec,2008,2008,Single Year,NA,Lab,Soil chamber,Dairy Cattle,Whole herd,Indoor,NA,Liquid,NA,Storage,NA,F,T,F,F
+81,Kariyapperuma,2012,Canadian Journal of Soil Science,Ontario,2005,2006,Multiple Years,Non-Growing,Field,Micrometeorological,Swine,Whole herd,Indoor,NA,"Liquid, Solid",Compost,Field,Annual crop,F,F,T,F
+82,McGinn,2012,Journal of Environmental Quality,Alberta,2004,2005,Single Year,Year-Round,Farm,Micrometeorological,Dairy Cattle,Whole herd,"Indoor, Outdoor",NA,"Liquid, Solid",NA,"Enteric, Storage",NA,F,T,F,F
+82,Basarab,2012,Animal,Alberta,2008,2010,Single Year,Year-Round,LCA,Mixed,Beef Cattle,Whole herd,"Indoor, Outdoor",NA,"Liquid, Solid",NA,"Enteric, Storage, Field","Annual crop, Grass",F,T,T,F
+82,Fournel,2012,Animal,Quebec,NA,NA,Single Year,NA,Farm,Animal chamber,Poultry,Layers,Indoor,NA,Liquid,NA,Storage,NA,T,T,T,F
+82,Pelster,2012,Journal of Environmental Quality,Quebec,2009,2010,Multiple Years,Growing,Field,Soil chamber,"Swine, Dairy Cattle, Poultry","Whole herd, Broilers, Finishers, Growers",Indoor,NA,Liquid,NA,Field,Annual crop,T,F,T,F
+82,Xia,2012,Waste Management,Quebec,NA,NA,Single Year,NA,Lab,Incubation,Swine,Whole herd,Indoor,NA,Liquid,Digester,Storage,NA,T,T,F,F
+82,Tremorin,2012,Animal Feed Science and Technology,Manitoba,2004,2005,Multiple Years,Growing,Field,Soil chamber,Beef Cattle,Steers,Outdoor,NA,Solid,NA,Field,Grass,F,F,T,F
+83,VanderZaag,2011,Animal Feed Science and Technology,Ontario,2003,2003,Single Year,Year-Round,Farm,Micrometeorological,Dairy Cattle,"Cows, Heifers",Indoor,NA,Liquid,NA,Storage,NA,F,T,F,F
+84,Flesch,2011,Biomass and Bioenergy,Alberta,2008,2009,Single Year,Year-Round,Farm,Micrometeorological,Beef Cattle,Whole herd,Indoor,NA,"Liquid, Solid",Digester,Storage,NA,F,T,F,F
+84,Hao,2011,Animal Feed Science and Technology,Alberta,2009,2010,Single Year,Non-Growing,Farm,Soil chamber,Beef Cattle,Whole herd,Indoor,Others,Solid,Compost,Storage,NA,T,T,T,F
+84,Chiyoka,2011,Animal Feed Science and Technology,Alberta,NA,NA,Single Year,NA,Lab,Incubation,Beef Cattle,Whole herd,Indoor,NA,"Solid, Liquid","Solid-liquid seperation, Digester, Pellet",Field,NA,T,F,T,F
+84,Hao,2011,Nutrient Cycling in Agroecosystems,Alberta,2004,2006,Multiple Years,Year-Round,Farm,Soil chamber,Beef Cattle,Whole herd,Outdoor,NA,Solid,"Antibiotics, Compost",Storage,NA,T,T,T,F
+84,Hao,2011,Nutrient Cycling in Agroecosystems,Alberta,2007,2007,Single Year,Growing,Farm,Soil chamber,Beef Cattle,Whole herd,Outdoor,NA,Solid,Compost,Storage,NA,T,T,T,F
+88,Beauchemin,2010,Agricultural Systems,Alberta,2001,2008,Multiple Years,Year-Round,LCA,Mixed,Beef Cattle,Whole herd,Indoor,NA,"Liquid, Solid",NA,"Storage, Field, Enteric","Annaual crop, Grass",F,T,T,F
+89,VanderZaag,2010,Applied Engineering in Agriculture,Nova Scotia,2008,2008,Single Year,Growing,Pilot,Soil chamber,Dairy Cattle,Whole herd,Indoor,NA,Liquid,"Intermittent Agitation, Cover",Storage,NA,T,T,T,T
+90,VanderZaag,2010,Canadian Journal of Soil Science,Nova Scotia,2006,2007,Single Year,Non-Growing,Pilot,Soil chamber,Dairy Cattle,Whole herd,Indoor,NA,Liquid,Intermittent Agitation,Storage,NA,T,T,T,T
+93,Wilson,2009,Canadian Journal of Animal Science,Manitoba,2004,2006,Multiple Years,Growing,Farm,Animal chamber,Beef Cattle,Steers,Outdoor,NA,"Liquid, Solid",NA,Enteric,NA,F,T,F,F
+94,VanderZaag,2009,Transactions of the ASABE,Nova Scotia,2007,2007,Single Year,Growing,Pilot,Soil chamber,Dairy Cattle,Whole herd,Indoor,NA,Liquid,Intermittent Agitation,Storage,NA,T,T,T,T
+95,Hao,2009,Nutrient Cycling in Agroecosystems,Alberta,2006,2006,Single Year,Growing,Farm,Soil chamber,Beef Cattle,Cows,Indoor,NA,Solid,Compost,Storage,NA,T,T,T,F
+96,Mkhabela,2009,"Agriculture, Ecosystems and Environment",Nova Scotia,2003,2004,Multiple Years,Growing,Field,Soil chamber,Swine,Whole herd,Indoor,NA,Liquid,NA,Field,Grass,F,F,T,T
+97,Massé,2008,Transactions of the ASABE,Quebec,2007,2007,Single Year,Year-Round,Farm,Modelling,Dairy Cattle,Cows,"Indoor, Outdoor",NA,Liquid,NA,Storage,NA,F,T,F,F
+99,Mkhabela,2008,Soil and Tillage Research,Nova Scotia,2003,2005,Multiple Years,"Non-Growing, Year-Round","Field, Lab","Soil chamber, Incubation","Dairy Cattle, Beef Cattle",Whole herd,Indoor,NA,"Liquid, Solid",NA,Field,Annual crop,F,F,T,T
+100,Stewart,2008,Canadian Journal of Animal Science,Manitoba,2004,2006,Multiple Years,Growing,Farm,Animal chamber,Beef Cattle,Steers,Indoor,NA,"Liquid, Solid",NA,Enteric,NA,T,T,F,F
+101,Rochette,2008,Canadian Journal of Soil Science,National,1990,2005,Multiple Years,Year-Round,Modelling,Modelling,"Dairy Cattle, Beef Cattle, Swine, Poultry, Sheep, Horse",Whole herd,"Indoor, Outdoor",NA,"Liquid, Solid",NA,Field,"Annual crop, Grass, Perennial crop",F,F,T,F
+102,Bhandral,2008,Canadian Journal of Soil Science,British Columbia,2001,2002,Multiple Years,Growing,"Field, Lab","Soil chamber, Incubation",Dairy Catttle,Whole herd,Indoor,NA,Liquid,NA,Field,Grass,F,F,T,F
+103,McDonald,2008,Jounral of Environmental Engineering and Science,Alberta,2005,2005,Single Year,Year-Round,Farm,Incubation,"Dairy Cattle, Swine, Poultry",Whole herd,"Indoor, Outdoor",NA,"Liquid, Solid",NA,Storage,NA,F,T,F,F
+104,Ellert,2008,Canadian Journal of Soil Science,Alberta,2001,2003,Multiple Years,Year-Round,Field,Soil chamber,Beef Cattle,Whole herd,Outdoor,NA,Solid,NA,Field,Annual crop,T,T,T,F
+106,Vergé,2007,Agricultural Systems,National,2001,2001,Single Year,Year-Round,LCA,Mixed,Dairy Cattle,Whole herd,"Indoor, Outdoor",NA,"Liquid, Solid",NA,"Enteric, Storage, Field","Annual crop, Grass",F,T,T,F
+107,Levin,2007,Bioresource Technology,National,2001,2001,Single Year,Year-Round,Modelling,Modelling,"Dairy Cattle, Beef Cattle, Swine, Poultry",Whole herd,"Indoor, Outdoor",NA,"Liquid, Solid",NA,Storage,NA,F,T,F,F
+109,Hutchinson,2007,Canadian Journal of Soil Science,National,1981,2001,Multiple Years,Year-Round,Field,Modelling,"Dairy Cattle, Beef Cattle, Swine, Sheep, Poultry, Horse",Whole herd,"Indoor, Outdoor",NA,"Liquid, Solid",NA,Field,"Annual crop, Perennial crop, Grass",F,F,T,F
+110,Wagner-Riddle,2006,Agricultural and Forest Meteorology,Ontario,2001,2002,Single Year,Year-Round,Farm,Micrometeorological,Swine,Whole herd,Indoor,NA,Liquid,NA,Storage,NA,F,T,T,F
+111,Park,2006,Atmospheric Environment,Ontario,2000,2002,Multiple Years,Year-Round,Farm,Micrometeorological,Swine,Whole herd,Indoor,NA,Liquid,Intermittent Agitation,Storage,NA,F,T,F,F
+112,Mkhabela,2006,Chemosphere,Nova Scotia,2005,2005,Single Year,Growing,Lab,Incubation,Swine,Whole herd,Indoor,NA,Liquid,NA,Lab,NA,F,F,T,T
+113,Laguë,2005,Transactions of the American Society of Agricultural Engineers,Saskatchewan,2001,2003,Multiple Years,Growing,Farm,Soil chamber,Swine,"Growers, Finishers",Indoor,NA,Liquid,NA,Storage,NA,T,T,T,F
+114,Pattey,2005,Nutrient Cycling in Agroecosystems,Ontario,2003,2003,Multiple Years,Growing,Pilot,Soil chamber,"Dairy Cattle, Beef Cattle",,Indoor,NA,"Liquid, Solid","Compost, Stockpile",Storage,NA,T,T,T,F
+116,Pennock,2005,Canadian Journal of Soil Science,Saskatchewan,2001,2002,Single Year,Non-Growing,Field,Soil chamber,NA,NA,NA,NA,NA,NA,Field,Annual crop,F,F,T,F
+118,Rochette,2004,Soil Science Society of America Journal,Quebec,1998,1999,Single Year,Year-Round,Field,Soil chamber,Swine,"Finishers, Sows",Indoor,None,Liquid,NA,Field,Annual crop,T,F,T,F
+120,Massé,2003,Canadian Biosystems Engineering ,Quebec,2002,2002,Single Year,Growing,Lab,Incubation,"Dairy Cattle, Swine","Cows, Growers, Finishers",Indoor,None,Liquid,NA,Lab,NA,F,T,F,F
+121,Lalande,2003,Canadian Journal of Soil Science,Quebec,1997,1997,Single Year,Growing,Lab,Incubation,Swine,Finishers,Indoor,None,Liquid,NA,Lab,NA,T,F,F,F
+121,Li,2002,,Ontario,,,,,,,,,,,,,,,T,T,T,T
+122,Van Bochove,2001,Journal of Geophysical Research Atmospheres,Quebec,1998,1999,Single Year,Non-Growing,Field,Soil chamber,Swine,Sows,Indoor,None,Liquid,NA,Field,Annual crop,F,F,T,F
+123,Kaharabata,2000,Environmental Science and Technology,Ontario,1996,1996,Single Year,Growing,Farm,Micrometeorological,Dairy Cattle,Heifers,Indoor,None,"Solid, Liquid",NA,"Enteric, Storage",NA,F,T,F,F
+124,Lemke,1999,Canadian Journal of Soil Science,Alberta,1993,1995,Multiple Years,Growing,Field,Soil chamber,Sheep,Whole herd,Indoor,None,Solid,NA,Field,Annual crop,F,F,T,F
+125,Kaharabata,1998,Global Biogeochemical Cycles,Quebec,1995,1996,Single Year,Year-Round,Farm,Soil chamber,"Dairy Cattle, Swine",Whole herd,Indoor,None,Liquid,NA,Storage,NA,F,T,F,F
+126,Gregorich,1998,Journal of Environmental Quality,Ontario,1992,1992,Single Year,Growing,Field,Soil chamber,Dairy Cattle,Whole herd,Indoor,None,Solid,Stockpile,Field,Annual crop,T,F,F,F
+127,Wagner-Riddle,1998,Nutrient Cycling in Agroecosystems,Ontario,1993,1996,Multiple Years,Non-Growing,Field,Micrometeorological,Dairy Cattle,Whole herd,Indoor,None,Liquid,NA,Field,Annual crop,F,F,T,F
+128,Wagner-Riddle,1997,Canadian Journal of Soil Science,Ontario,1992,1995,Multiple Years,Year-Round,Field,Micrometeorological,Dairy Cattle,Whole herd,Indoor,None,Liquid,NA,Field,Grass,F,F,T,F
+129,Lessard,1997,Canadian Journal of Soil Science,Ontario,1993,1994,Multiple Years,Growing,Field,Soil chamber,Dairy Cattle,"Cows, Heifers, Calves",Indoor,None,Solid,Stockpile,Field,Annual crop,F,T,F,F
+130,Lessard,1996,Journal of Environmental Quality,Ontario,1993,1993,Single Year,Growing,Field,Soil chamber,Dairy Cattle,"Cows, Heifers, Calves",Indoor,None,Solid,Stockpile,Field,Annual crop,F,F,T,F
