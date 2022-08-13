@@ -1,8 +1,8 @@
 library(tidyverse)
 #read data
 GHG<-read.csv("data input/data of ghg emission.csv",header=T)
-GHG[263,]<-NA
-GHG[263,c(3,20:23)]<-c(1994,0,0,0,0) #To fill the year gap
+GHG[260,]<-NA
+GHG[260,c(3,20:23)]<-c(1994,0,0,0,0) #To fill the year gap
 #First plot is to know the trend of GHG emission
 #Are we turning our focus from CO2 to CH4 and N2O?
 ghg.year<-data.frame(year=c(1993:2022),CO2=rep(0,30)
@@ -31,15 +31,17 @@ legend(1996,16,colnames(ghg.year)[2:5]
 dev.off()
 
 #We want to spatial distribtion of the studies
+cols.bar<-terrain.colors(12)
 prov<-(unique(GHG$Region))[c(8,2,10,1,5,4,11,7,12,9,6,3)]
 prov.n<-length(prov)
+#GHG
 ghg.prov<-data.frame(prov=prov,CO2=rep(0,prov.n)
                      ,CH4=rep(0,prov.n),N2O=rep(0,prov.n)
                      ,NH3=rep(0,prov.n))  #empty table
 for(i in 1:4) {
   ghg.prov[i+1]<-tapply(GHG[,19+i],GHG$Region,sum)
 }
-cols.bar<-terrain.colors(12)
+
 prov_pdf<-"data output/Publication in province.pdf"
 pdf(file=prov_pdf)
 barplot(as.matrix(ghg.prov[,2:5])
@@ -51,9 +53,42 @@ legend(1,60,ghg.prov[,1],bty="n",
        ncol=3,fill =cols.bar)
 dev.off()
 
+#Research type
+rtype<-c("Lab","Pilot","Farm","Field","LCA")
+rtype.n<-length(rtype)
+rtype.prov<-data.frame(prov=prov,Lab=rep(0,prov.n)
+                     ,Pilot=rep(0,prov.n),Farm=rep(0,prov.n)
+                     ,Field=rep(0,prov.n),LCA=rep(0,prov.n))  #empty table
+#obtain research type in the regions
+for (i in 1:prov.n) {
+  for (j in 1:rtype.n) {
+  rtype.prov[i,j+1]<-sum(str_detect(GHG$Region[!is.na(GHG$Region)],prov[i]) &
+                       str_detect(GHG$Research.type[!is.na(GHG$Research.type)],rtype[j])
+                       ) 
+ }
+}
+Rtype_pdf<-"data output/Research types in province.pdf"
+pdf(file=Rtype_pdf)
+barplot(as.matrix(rtype.prov[,2:6])
+        ,beside=TRUE,ylim=c(0,30)
+        ,col=cols.bar,las=1
+        ,ylab="Number of Research type")
+
+legend(1,30,prov,bty="n",
+       ncol=3,fill =cols.bar)
+dev.off()
+
+#Count the journal numbers
+jour<-unique(GHG$Journal[!is.na(GHG$Journal)])
+jour.n<-length(jour)
+ghg.jour<-data.frame(Journal=jour,num=rep(0,jour.n))  #empty table
+for (i in 1:jour.n) {
+  ghg.jour[i,2]<-sum(str_detect(GHG$Journal[!is.na(GHG$Journal)],jour[i]))
+}
+
 
 #Count the use of techniques
-tech<-unique(GHG$Technique[!is.na(GHG$Technique)])
+tech<-unique(GHG$Technique)[!is.na(GHG$Technique)])
 tech.n<-length(tech)
 ghg.tech<-data.frame(prov=tech,tech=rep(0,tech.n))  #empty table
 for (i in 1:length(tech)) {
@@ -62,5 +97,5 @@ ghg.tech[i,2]<-sum(str_detect(GHG$Technique[!is.na(GHG$Technique)],tech[i]))
 
 #Trends of techniques used in 1993-2022
 tech<-unique(GHG$Technique[!is.na(GHG$Technique)])[c(1:4,6,8,10)]
-year.tech<-data.frame(matrix(c(1993:2022,1:210),nrow=30,ncol=8))
+year.tech<-data.frame(matrix(c(1993:2022,1:210),nrow=30,ncol=8)) # empty dataframe
 names(year.tech)<-c("year",tech)
