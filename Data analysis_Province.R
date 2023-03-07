@@ -6,13 +6,14 @@
 library(tidyverse)
 library(ggplot2)
 library(reshape2)
+library(scatterpie)
 #read data
 GHG<-read.csv("data input/data of ghg emission.csv",header=T)
 
-#We want to spatial distribtion of the studies
-cols.bar<-terrain.colors(12)
-prov<-(unique(GHG$Region))[c(8,2,10,1,5,4,11,7,12,9,6,3)]
-prov.n<-length(prov)
+#We want to spatial distribution of the studies
+cols.bar <- terrain.colors(12)
+prov <- (unique(GHG$Region))[c(8,2,10,1,5,4,11,7,12,9,6,3)]
+prov.n <- length(prov)
 
 #1.1 Research type
 rtype<-c("Lab","Pilot","Farm","Field","LCA")
@@ -37,6 +38,16 @@ rtype.prov$prov<-rep(c("BC","AB","SK","MB","ON","QC","NB","NS","PE","NL","Rgnl."
 #Keep the order for my plot
 rtype.prov$prov <- factor(rtype.prov$prov,levels=unique(rtype.prov$prov))
 rtype.prov$type <- factor(rtype.prov$type,levels=unique(rtype.prov$type))
+
+rtype.prov$locate<-as.numeric(c(1:12))#rep(1,length(rtype.prov$prov))
+rtype.prov$xloc<-as.numeric(c(1:12))
+rtype.prov$prov<-as.numeric(c(1:12))
+ggplot() + geom_scatterpie(aes(x=xloc, y=locate, group=prov)
+                           ,data=rtype.prov)
+                           #cols=LETTERS[1:5]) #
+                            #+ coord_equal()
+
+#Output Research types in provinces
 Rtype_pdf<-"data output/Research types in province_Bubble.pdf"
 pdf(file=Rtype_pdf)
 ggplot(rtype.prov, aes(x = prov, y = type)) + 
